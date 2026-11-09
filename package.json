@@ -1,0 +1,1 @@
+{"name":"workly","version":"2.0.0","private":true,"description":"Workly freelance marketplace with real accounts, storage and live chat","scripts":{"start":"node --disable-warning=ExperimentalWarning server.js"},"engines":{"node":">=22.5"}}
